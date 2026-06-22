@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 850" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2C3E50;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#4A90D9;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="familyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="projectsGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ECC71;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#27AE60;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="workGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#2E86C1;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="eduGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9B59B6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7D3C98;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="shadow" x="-3%" y="-3%" width="106%" height="106%">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.25"/>
+    </filter>
+    <marker id="arrowDown" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7F8C8D"/>
+    </marker>
+    <marker id="arrowDownBlue" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3498DB"/>
+    </marker>
+  </defs>
+
+  <rect width="1100" height="850" fill="#F0F2F5" rx="8"/>
+
+  <rect x="300" y="15" width="500" height="50" rx="25" fill="url(#headerGrad)" filter="url(#shadow)"/>
+  <text x="550" y="48" text-anchor="middle" fill="#fff" font-size="22" font-weight="bold">📊 My Life — Goal Flowchart</text>
+
+  <ellipse cx="550" cy="100" rx="70" ry="30" fill="#2C3E50" filter="url(#shadow)"/>
+  <text x="550" y="105" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">My Life</text>
+
+  <line x1="550" y1="130" x2="550" y2="155" stroke="#7F8C8D" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+  <line x1="140" y1="180" x2="960" y2="180" stroke="#BDC3C7" stroke-width="2"/>
+  <line x1="550" y1="155" x2="550" y2="180" stroke="#7F8C8D" stroke-width="2"/>
+
+  <line x1="550" y1="180" x2="140" y2="180" stroke="#BDC3C7" stroke-width="2"/>
+  <line x1="140" y1="180" x2="140" y2="210" stroke="#E74C3C" stroke-width="2" marker-end="url(#arrowDown)"/>
+  <rect x="50" y="215" width="180" height="45" rx="10" fill="url(#familyGrad)" filter="url(#shadow)"/>
+  <text x="140" y="236" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">👨‍👩‍👧 Family Life</text>
+  <text x="140" y="253" text-anchor="middle" fill="#FFD6D6" font-size="10">Level 1 • Importance: 25%</text>
+
+  <line x1="140" y1="260" x2="140" y2="285" stroke="#E74C3C" stroke-width="1.5" marker-end="url(#arrowDown)"/>
+  <rect x="75" y="290" width="130" height="35" rx="8" fill="#F1948A" filter="url(#shadow)" stroke="#E74C3C" stroke-width="1"/>
+  <text x="140" y="306" text-anchor="middle" fill="#333" font-size="12">New goal (L2)</text>
+  <text x="140" y="320" text-anchor="middle" fill="#555" font-size="9">25% • #1,1</text>
+
+  <line x1="50" y1="325" x2="50" y2="350" stroke="#E74C3C" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="5" y="355" width="90" height="30" rx="6" fill="#F5B7B1" stroke="#E74C3C" stroke-width="0.5"/>
+  <text x="50" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 100%</text>
+  <text x="50" y="382" text-anchor="middle" fill="#555" font-size="8">#1,1,1</text>
+
+  <line x1="110" y1="325" x2="110" y2="350" stroke="#E74C3C" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="65" y="355" width="90" height="30" rx="6" fill="#F5B7B1" stroke="#E74C3C" stroke-width="0.5"/>
+  <text x="110" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="110" y="382" text-anchor="middle" fill="#555" font-size="8">#1,2</text>
+
+  <line x1="170" y1="325" x2="170" y2="350" stroke="#E74C3C" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="125" y="355" width="90" height="30" rx="6" fill="#F5B7B1" stroke="#E74C3C" stroke-width="0.5"/>
+  <text x="170" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="170" y="382" text-anchor="middle" fill="#555" font-size="8">#1,3</text>
+
+  <line x1="230" y1="325" x2="230" y2="350" stroke="#E74C3C" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="185" y="355" width="90" height="30" rx="6" fill="#F5B7B1" stroke="#E74C3C" stroke-width="0.5"/>
+  <text x="230" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="230" y="382" text-anchor="middle" fill="#555" font-size="8">#1,4</text>
+
+
+  <line x1="550" y1="180" x2="395" y2="180" stroke="#BDC3C7" stroke-width="2"/>
+  <line x1="395" y1="180" x2="395" y2="210" stroke="#2ECC71" stroke-width="2" marker-end="url(#arrowDown)"/>
+  <rect x="305" y="215" width="180" height="45" rx="10" fill="url(#projectsGrad)" filter="url(#shadow)"/>
+  <text x="395" y="236" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">🎯 Personal Projects</text>
+  <text x="395" y="253" text-anchor="middle" fill="#D5F5E3" font-size="10">Level 1 • Importance: 25%</text>
+
+  <line x1="395" y1="260" x2="395" y2="285" stroke="#2ECC71" stroke-width="1.5" marker-end="url(#arrowDown)"/>
+  <rect x="330" y="290" width="130" height="35" rx="8" fill="#82E0AA" filter="url(#shadow)" stroke="#2ECC71" stroke-width="1"/>
+  <text x="395" y="306" text-anchor="middle" fill="#333" font-size="12">New goal (L2)</text>
+  <text x="395" y="320" text-anchor="middle" fill="#555" font-size="9">25% • #2,1</text>
+
+  <line x1="305" y1="325" x2="305" y2="350" stroke="#2ECC71" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="260" y="355" width="90" height="30" rx="6" fill="#ABEBC6" stroke="#2ECC71" stroke-width="0.5"/>
+  <text x="305" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 100%</text>
+  <text x="305" y="382" text-anchor="middle" fill="#555" font-size="8">#2,1,1</text>
+
+  <line x1="365" y1="325" x2="365" y2="350" stroke="#2ECC71" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="320" y="355" width="90" height="30" rx="6" fill="#ABEBC6" stroke="#2ECC71" stroke-width="0.5"/>
+  <text x="365" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="365" y="382" text-anchor="middle" fill="#555" font-size="8">#2,2</text>
+
+  <line x1="425" y1="325" x2="425" y2="350" stroke="#2ECC71" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="380" y="355" width="90" height="30" rx="6" fill="#ABEBC6" stroke="#2ECC71" stroke-width="0.5"/>
+  <text x="425" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="425" y="382" text-anchor="middle" fill="#555" font-size="8">#2,3</text>
+
+  <line x1="485" y1="325" x2="485" y2="350" stroke="#2ECC71" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="440" y="355" width="90" height="30" rx="6" fill="#ABEBC6" stroke="#2ECC71" stroke-width="0.5"/>
+  <text x="485" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="485" y="382" text-anchor="middle" fill="#555" font-size="8">#2,4</text>
+
+
+  <line x1="550" y1="180" x2="705" y2="180" stroke="#BDC3C7" stroke-width="2"/>
+  <line x1="705" y1="180" x2="705" y2="210" stroke="#3498DB" stroke-width="2" marker-end="url(#arrowDownBlue)"/>
+  <rect x="615" y="215" width="180" height="45" rx="10" fill="url(#workGrad)" filter="url(#shadow)"/>
+  <text x="705" y="236" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">💼 Work/Career</text>
+  <text x="705" y="253" text-anchor="middle" fill="#D6EAF8" font-size="10">Level 1 • Importance: 25%</text>
+
+  <line x1="705" y1="260" x2="705" y2="285" stroke="#3498DB" stroke-width="1.5" marker-end="url(#arrowDownBlue)"/>
+  <rect x="640" y="290" width="130" height="35" rx="8" fill="#85C1E9" filter="url(#shadow)" stroke="#3498DB" stroke-width="1"/>
+  <text x="705" y="306" text-anchor="middle" fill="#333" font-size="12">New goal (L2)</text>
+  <text x="705" y="320" text-anchor="middle" fill="#555" font-size="9">25% • #3,1</text>
+
+  <line x1="615" y1="325" x2="615" y2="350" stroke="#3498DB" stroke-width="1" marker-end="url(#arrowDownBlue)"/>
+  <rect x="570" y="355" width="90" height="30" rx="6" fill="#AED6F1" stroke="#3498DB" stroke-width="0.5"/>
+  <text x="615" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 100%</text>
+  <text x="615" y="382" text-anchor="middle" fill="#555" font-size="8">#3,1,1</text>
+
+  <line x1="675" y1="325" x2="675" y2="350" stroke="#3498DB" stroke-width="1" marker-end="url(#arrowDownBlue)"/>
+  <rect x="630" y="355" width="90" height="30" rx="6" fill="#AED6F1" stroke="#3498DB" stroke-width="0.5"/>
+  <text x="675" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="675" y="382" text-anchor="middle" fill="#555" font-size="8">#3,2</text>
+
+  <line x1="735" y1="325" x2="735" y2="350" stroke="#3498DB" stroke-width="1" marker-end="url(#arrowDownBlue)"/>
+  <rect x="690" y="355" width="90" height="30" rx="6" fill="#AED6F1" stroke="#3498DB" stroke-width="0.5"/>
+  <text x="735" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="735" y="382" text-anchor="middle" fill="#555" font-size="8">#3,3</text>
+
+  <line x1="795" y1="325" x2="795" y2="350" stroke="#3498DB" stroke-width="1" marker-end="url(#arrowDownBlue)"/>
+  <rect x="750" y="355" width="90" height="30" rx="6" fill="#AED6F1" stroke="#3498DB" stroke-width="0.5"/>
+  <text x="795" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="795" y="382" text-anchor="middle" fill="#555" font-size="8">#3,4</text>
+
+
+  <line x1="550" y1="180" x2="960" y2="180" stroke="#BDC3C7" stroke-width="2"/>
+  <line x1="960" y1="180" x2="960" y2="210" stroke="#9B59B6" stroke-width="2" marker-end="url(#arrowDown)"/>
+  <rect x="870" y="215" width="180" height="45" rx="10" fill="url(#eduGrad)" filter="url(#shadow)"/>
+  <text x="960" y="236" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">🎓 Education</text>
+  <text x="960" y="253" text-anchor="middle" fill="#E8DAEF" font-size="10">Level 1 • Importance: 25%</text>
+
+  <line x1="960" y1="260" x2="960" y2="285" stroke="#9B59B6" stroke-width="1.5" marker-end="url(#arrowDown)"/>
+  <rect x="895" y="290" width="130" height="35" rx="8" fill="#AF7AC5" filter="url(#shadow)" stroke="#9B59B6" stroke-width="1"/>
+  <text x="960" y="306" text-anchor="middle" fill="#333" font-size="12">New goal (L2)</text>
+  <text x="960" y="320" text-anchor="middle" fill="#555" font-size="9">25% • #4,1</text>
+
+  <line x1="870" y1="325" x2="870" y2="350" stroke="#9B59B6" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="825" y="355" width="90" height="30" rx="6" fill="#D2B4DE" stroke="#9B59B6" stroke-width="0.5"/>
+  <text x="870" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 100%</text>
+  <text x="870" y="382" text-anchor="middle" fill="#555" font-size="8">#4,1,1</text>
+
+  <line x1="930" y1="325" x2="930" y2="350" stroke="#9B59B6" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="885" y="355" width="90" height="30" rx="6" fill="#D2B4DE" stroke="#9B59B6" stroke-width="0.5"/>
+  <text x="930" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="930" y="382" text-anchor="middle" fill="#555" font-size="8">#4,2</text>
+
+  <line x1="990" y1="325" x2="990" y2="350" stroke="#9B59B6" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="945" y="355" width="90" height="30" rx="6" fill="#D2B4DE" stroke="#9B59B6" stroke-width="0.5"/>
+  <text x="990" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="990" y="382" text-anchor="middle" fill="#555" font-size="8">#4,3</text>
+
+  <line x1="1050" y1="325" x2="1050" y2="350" stroke="#9B59B6" stroke-width="1" marker-end="url(#arrowDown)"/>
+  <rect x="1005" y="355" width="90" height="30" rx="6" fill="#D2B4DE" stroke="#9B59B6" stroke-width="0.5"/>
+  <text x="1050" y="371" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="1050" y="382" text-anchor="middle" fill="#555" font-size="8">#4,4</text>
+
+
+  <line x1="140" y1="420" x2="960" y2="420" stroke="#BDC3C7" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="550" y="450" text-anchor="middle" fill="#7F8C8D" font-size="13" font-weight="bold">▼ Additional Level 3 Tasks ▼</text>
+
+  <rect x="75" y="470" width="130" height="30" rx="6" fill="#F5B7B1" stroke="#E74C3C" stroke-width="0.5"/>
+  <text x="140" y="486" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="140" y="497" text-anchor="middle" fill="#555" font-size="8">#1,5</text>
+
+  <rect x="330" y="470" width="130" height="30" rx="6" fill="#ABEBC6" stroke="#2ECC71" stroke-width="0.5"/>
+  <text x="395" y="486" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="395" y="497" text-anchor="middle" fill="#555" font-size="8">#2,5</text>
+
+  <rect x="640" y="470" width="130" height="30" rx="6" fill="#AED6F1" stroke="#3498DB" stroke-width="0.5"/>
+  <text x="705" y="486" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="705" y="497" text-anchor="middle" fill="#555" font-size="8">#3,5</text>
+
+  <rect x="895" y="470" width="130" height="30" rx="6" fill="#D2B4DE" stroke="#9B59B6" stroke-width="0.5"/>
+  <text x="960" y="486" text-anchor="middle" fill="#333" font-size="10">Task • 25%</text>
+  <text x="960" y="497" text-anchor="middle" fill="#555" font-size="8">#4,5</text>
+
+
+  <rect x="25" y="550" width="1050" height="130" rx="10" fill="#fff" stroke="#E0E0E0" stroke-width="1" filter="url(#shadow)"/>
+  <text x="550" y="580" text-anchor="middle" fill="#2C3E50" font-size="16" font-weight="bold">📋 Summary</text>
+
+  <rect x="60" y="600" width="16" height="16" rx="3" fill="#E74C3C"/>
+  <text x="85" y="613" fill="#333" font-size="11">Family Life</text>
+
+  <rect x="200" y="600" width="16" height="16" rx="3" fill="#2ECC71"/>
+  <text x="225" y="613" fill="#333" font-size="11">Personal Projects</text>
+
+  <rect x="370" y="600" width="16" height="16" rx="3" fill="#3498DB"/>
+  <text x="395" y="613" fill="#333" font-size="11">Work/Career</text>
+
+  <rect x="530" y="600" width="16" height="16" rx="3" fill="#9B59B6"/>
+  <text x="555" y="613" fill="#333" font-size="11">Education</text>
+
+  <text x="60" y="645" fill="#555" font-size="11">📌 Level 1 Goals: 4</text>
+  <text x="260" y="645" fill="#555" font-size="11">📌 Level 2 Goals: 4</text>
+  <text x="460" y="645" fill="#555" font-size="11">📌 Level 3 Tasks: 16</text>
+  <text x="660" y="645" fill="#555" font-size="11">📌 Total Items: 24</text>
+  <text x="860" y="645" fill="#555" font-size="11">📌 Overall Progress: 0%</text>
+
+  <text x="550" y="830" text-anchor="middle" fill="#95A5A6" font-size="10">Data sourced from My-Life.csv • Generated from goal hierarchy</text>
+</svg>
