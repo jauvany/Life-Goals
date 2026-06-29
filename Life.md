@@ -19,7 +19,7 @@
   - Task #1,2 — 25% completion: Get Married - get a house by Sep/26, see parents by Nov/26, get married in one of the 3 ways by Dec/26. INCASE (FAILURE) return to point of failure.
   - Task #1,3 — 25% completion: TSUETi Family - INCASE (FAILURE) return to point of failure.
   - Task #1,4 — 25% completion: Inlaws - INCASE (FAILURE) return to point of failure.
-  - Task #1,5 — 25% completion: - Cummunity Support/Grouth - INCASE (FAILURE) return to point of failure.
+  - Task #1,5 — 25% completion: Cummunity Support/Grouth - Join and Contribute  INCASE (FAILURE) return to point of failure.
 
 ---
 
