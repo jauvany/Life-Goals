@@ -16,10 +16,10 @@
 ## **👨‍👩‍👧 Family Life** (Importance: 25%)
 - **Level 2: New goal (#1,1)** — 25% completion
   - Task #1,1,1 — 100% completion
-  - Task #1,2 — 25% completion: Get Married - get a house by Sep/26, see parents by Nov/26, get married in one of the 3 ways by Dec/26. INCASE (FAILURE) return to point of failure.
-  - Task #1,3 — 25% completion: TSUETi Family - Launch and enforce TSUETI Njangi by Jan/27 INCASE (FAILURE) return to point of failure.
-  - Task #1,4 — 25% completion: Inlaws - Participate and support acctivities and events of inlaws INCASE (FAILURE) return to point of failure.
-  - Task #1,5 — 25% completion: Cummunity Support/Grouth - Join and Contribute  INCASE (FAILURE) return to point of failure.
+  - Task #1,2 — 25% completion: Get Married - get a house by Sep/26, see parents by Nov/26, get married in one of the 3 ways by Dec/26. INCASE (FAILURE) return to the point of failure and redo.
+  - Task #1,3 — 25% completion: TSUETi Family - Launch and enforce TSUETI Njangi by Jan/27 INCASE (FAILURE) return to the point of failure and redo.
+  - Task #1,4 — 25% completion: Inlaws - Participate and support acctivities and events of inlaws INCASE (FAILURE) return to the point of failure and redo.
+  - Task #1,5 — 25% completion: Cummunity Support/Grouth - Join and Contribute to 3 Njangis by Dec/26 INCASE (FAILURE) return to the point of failure and redo.
 
 ---
 
