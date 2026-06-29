@@ -26,30 +26,30 @@
 ## **🎯 Personal Projects** (Importance: 25%)
 - **Level 2: New goal (#2,1)** — 25% completion INCASE of failure, return to the point of failure and redo.
 
-  - Task #2,2 — 25% completion
-  - Task #2,3 — 25% completion
-  - Task #2,4 — 25% completion
-  - Task #2,5 — 25% completion
+  - J WEB PROJECTS — 25%: Save $500 in company bank account by Dec/26, Employ 5 staff by Jan/27, 
+  - Safe Grammar School — 25%: Relaunch SGS with 10 million francs CFA by June/30,
+  - Lycee du Pays — 25%: Register and launch Lycee with 10 million by June/35, 
+  - TSUETi Urban Clothing — 25%: Register and Relaunch 
 
 ---
 
 ## **💼 Work/Career** (Importance: 25%)
 - **Level 2: New goal (#3,1)** — 25% completion INCASE of failure, return to the point of failure and redo.
   
-  - Task #3,2 — 25% completion:
-  - Task #3,3 — 25% completion:
-  - Task #3,4 — 25% completion:
-  - Task #3,5 — 25% completion:
+  - Task — 25%:
+  - Task — 25%:
+  - Task — 25%:
+  - Task — 25%:
 
 ---
 
 ## **🎓 Education** (Importance: 25%)
 - **Level 2: New goal (#4,1)** — 25% completion INCASE of failure, return to the point of failure and redo.
   
-  - Task #4,2 — 25% completion
-  - Task #4,3 — 25% completion
-  - Task #4,4 — 25% completion
-  - Task #4,5 — 25% completion
+  - Task — 25%:
+  - Task — 25%:
+  - Task — 25%:
+  - Task — 25%:
 
 ---
 
